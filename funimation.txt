@@ -1,0 +1,699 @@
+FUNIMATION
+
+
+<channels>Net
+<channel>
+<name>Code Geass: Lelouch of the Rebellion [COLOR yellow][B]8.7[/B][/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20code%20geass</externallink>
+<thumbnail>https://m.mediaamazon.com/images/M/MV5BYmEyM2VlZWItNWY4Ni00YmY2LWE3YTAtYjljMmU1MWEyYmZiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://images.saymediacontent.com/.image/t_share/MTc0NDQ4Nzc3NjYxMjYxNDQ2/animeanalysisreviewcodegeasslelouchoftherebellion.jpg</fanart>
+<aired>2006/10/05</aired>
+<info>
+
+Depois de receber um poder misterioso para controlar os outros, um príncipe marginalizado se torna o líder mascarado da rebelião contra um império todopoderoso.
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Ousama Ranking [COLOR yellow]8.4[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Ousama%20Ranking</externallink>
+<thumbnail>https://media.senscritique.com/media/000020376858/source_big/Ranking_of_Kings.jpg</thumbnail>
+<fanart>https://i0.wp.com/metagalaxia.com.br/wpcontent/uploads/2021/11/OsPersonagensdeOusamaRanking_2.webp?fit=1200%2C700&ssl=1</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]janeiro 22, 2022[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Multi, PTBR[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]900 MB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. per ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Initial D First Stage [COLOR yellow]8.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Initial%20D%20First%20Stage</externallink>
+<thumbnail>https://static.wikia.nocookie.net/voiceacting/images/2/29/Initial_D_First_Stage_DVD_Cover.jpg/revision/latest?cb=20130909155301</thumbnail>
+<fanart>https://static.bunnycdn.ru/i/cache/images/2018/04/8ede76b1809c8b1686bc72331e890d6e.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]outubro 1, 2020[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]PTBR[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]200 MB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]25 min. per ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>InuYasha [COLOR yellow]7.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20InuYasha</externallink>
+<thumbnail>https://cosmonerd.com.br/series/noticiasseries/hanyounoyashahimecontinuacaodeinuyashaestreiaem2020veja/attachment/inuhanyo/</thumbnail>
+<fanart>http://dicasgeeks.com.br/wpcontent/uploads/2021/09/yashahime.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]agosto 31, 2020[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]PTBR[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B][/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. per ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>xxxHOLiC [COLOR yellow]8.0[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20xxxholic</externallink>
+<thumbnail>https://www.animeplanet.com/images/anime/covers/1254.jpg?t=1598486100</thumbnail>
+<fanart>https://img1.hulu.com/user/v3/artwork/43ba0afb6ef54a1797da99d72c644523?base_image_bucket_name=image_manager&base_image=d1168a3f46d44118bd63d5c0078b9211&size=1200x630&format=jpeg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]20052013[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês, Portugues [MultiSubs][/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]19 gbs[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep..[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Platinum End [COLOR yellow]8.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Platinum%20End</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w500/kfUjWTpKU4DadC0C52eM3gDto04.jpg</thumbnail>
+<fanart>https://ikigaipop.com/wpcontent/uploads/2021/08/platinumendanimecover.jpeg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B] Japonês [MultiSubs][/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]400/800 MB p. Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 Min./Ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Fruits Basket [COLOR yellow]8.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Fruits%20Basket</externallink>
+<thumbnail>https://www.citatum.hu/kepek/filmek/nagy/fruits_basket.jpg</thumbnail>
+<fanart>https://i0.wp.com/thenerddaily.com/wpcontent/uploads/2020/03/FruitsBasketSeason1Recap.jpg?fit=770%2C571&ssl=1</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2001[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]600 Mb p. Ep[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Beck [COLOR yellow]8.3[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20beck</externallink>
+<thumbnail>https://i.pinimg.com/originals/51/f2/1b/51f21bfcc693263cbf83bc14fb8d7c6b.jpg</thumbnail>
+<fanart>https://i.redd.it/1a2rt063irl51.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2004[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês [MultiSubs][/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]100 Mbs P. Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]25 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Log Horizon: Entaku Houkai [COLOR yellow]7.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Log%20Horizon:%20Entaku%20Houkai</externallink>
+<thumbnail>https://infoanime.com.br/poster/2021/loghorizon3.jpg</thumbnail>
+<fanart>https://ninenovelhome.files.wordpress.com/2021/01/entakuhoukai.jpg?w=640</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês [MultiSubs][/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 Gbs. Por. Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Castlevania [COLOR yellow]9.4[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20castlevania</externallink>
+<thumbnail>https://br.web.img2.acsta.net/pictures/21/05/10/23/27/0599462.jpg</thumbnail>
+<fanart>https://poltronanerd.com.br/wpcontent/uploads/2021/04/castlevaniadaNetflix.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2017[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Portugues/Ingles[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]3 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 Min.[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>One Piece [COLOR yellow]8.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20one%20piece</externallink>
+<thumbnail>https://img.assinaja.com/assets/tZ/004/img/269219_520x520.jpg</thumbnail>
+<fanart>https://poltronanerd.com.br/wpcontent/uploads/2020/09/onepiece.jpg</fanart>
+<genre>Animaçao,Acao,Aventura</genre>
+<info>[COLOR cyan] Sinopse:[/COLOR]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Record Of Ragnarok [COLOR yellow]6.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20record%20of%20ragnarok</externallink>
+<thumbnail>https://br.web.img3.acsta.net/pictures/21/03/29/15/03/3028114.jpg</thumbnail>
+<fanart>https://ambrosia.com.br/wpcontent/uploads/2021/06/RecordofRagnaroknetflixnovidadesambrosia.jpeg</fanart>
+<genre>Açao,Aventura,Anime</genre>
+<info>[COLOR cyan] Sinopse:[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Black Clover [COLOR yellow]7.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20black%20clover</externallink>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/8/8b/Ob_8b1663_wfhqoewgyfvm38tkiwbrlr1gs4s.jpg/revision/latest?cb=20210616123147&pathprefix=ptbr</thumbnail>
+<fanart>https://1.bp.blogspot.com/biU0uTHtxSc/XfJ0AGaF1eI/AAAAAAAARwo/ebNpIV4_aTcoig4ESoWq27S6Kyg1lJpWACEwYBhgL/s1600/BlackClover.webp</fanart>
+<genre>Ação,Comédia,Magia</genre>
+<info>[COLOR cyan] Sinopse:[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Dragon Ball GT [COLOR yellow]6.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20dragon%20ball%20gt</externallink>
+<thumbnail>https://animefire.net/img/animes/dragonballgtlarge.webp</thumbnail>
+<fanart>https://static.wikia.nocookie.net/dublagem/images/6/67/Dragonballgt.jpg/revision/latest?cb=20200613013335&pathprefix=ptbr</fanart>
+<genre>Açao,Aventura,Anime</genre>
+<info>[COLOR cyan] Sinopse:[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Dragon Ball Kai [COLOR yellow]8.3[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20dragon%20ball%20kai</externallink>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/c/cd/63e2a99cb04decf7a4c157a870c05a63e5151031_hq.jpg/revision/latest?cb=20200603223550&pathprefix=ptbr</thumbnail>
+<fanart>https://angelotti.files.wordpress.com/2011/03/dragonballkai.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2011[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Português[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]42 GB (Dividido em 6 Partes
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 Min./EP[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>kiseijuu sei no kakuritsu [COLOR yellow]n/d[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20kiseijuu</externallink>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/7/76/DC1rIfKScgrHjmZYdTpUgWpZF4h.jpg/revision/latest?cb=20200524053943&pathprefix=ptbr</thumbnail>
+<fanart>https://i1.wp.com/www.maxatplay.com/wpcontent/uploads/2020/11/parasyte_cover.jpg?resize=800%2C445</fanart>
+<genre>Psicologico,Horror</genre>
+<info>[COLOR cyan] Sinopse:[/COLOR]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Thundercats [COLOR yellow]7.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20thundercats</externallink>
+<thumbnail>https://m.mediaamazon.com/images/M/MV5BM2NlNjBmMjYtNGE5MC00N2ExLWFlZmItZGUzNzBkZTdkM2QwL2ltYWdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg</thumbnail>
+<fanart>https://img1.hulu.com/user/v3/artwork/8d87f360808a4bec8f660735cbcfd322?base_image_bucket_name=image_manager&base_image=4644c5d15e304c2a901805c668cff125&size=1200x630&format=jpeg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2011[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Portugues[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]3.40 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]30 Min.[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Kingdom [COLOR yellow]8.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20kingdom</externallink>
+<thumbnail>https://subanimes.biz/wpcontent/uploads/2020/10/kingdom1temporadaanimesonehd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wWo9coC8MRxBdL1d399MgBKeKoo.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2014[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]??[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 Min.[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>PsychoPass [COLOR yellow]8.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20psychopass</externallink>
+<thumbnail>https://imagesna.sslimagesamazon.com/images/I/719Ycpkh+EL.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/zguf6Uue9to/Wb_6itQLeOI/AAAAAAAARPg/GRhmuoedl5smlq_8mV0jgQ_qWpHS23mACLcBGAs/s1600/maxresdefault.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2012[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB cada[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 minutos[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Samurai X [COLOR yellow]8.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime</externallink>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/a/a3/Samurai_X.jpg/revision/latest?cb=20201224062458&pathprefix=ptbr</thumbnail>
+<fanart>https://i.pinimg.com/originals/ce/05/db/ce05db4de77741da862c8768b3f6d498.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]1994[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Português[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]14 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Monster [COLOR yellow]8.6[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20monster</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/80L14lagZvAySaKgedKYHQZX9H5.jpg</thumbnail>
+<fanart>https://static.animesportal.info/resources/tamninatasazdavachudovischaunikalnataistoriyasazdadenaotnaokiurasava1586889447.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2005[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japonês (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]3.24 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]20 min[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>tenkuu shinpan [COLOR yellow]7.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20tenkuu%20shinpan</externallink>
+<thumbnail>https://animefire.net/img/animes/tenkuushinpanlarge.webp?v=1</thumbnail>
+<fanart>https://i0.wp.com/www.otakupt.com/wpcontent/uploads/2021/02/HighriseInvasionnewscreenshot.jpg?fit=1280%2C720&ssl=1</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Portugues[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]4 Gb[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B][/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Yakusoku no Neverland [COLOR yellow]8.9[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Yakusoku%20no%20Neverland</externallink>
+<thumbnail>https://miro.medium.com/max/1280/1*drxO9c6X9wKD8k_c6ntS_Q.jpeg</thumbnail>
+<fanart>https://www.barbanerd.com.br/wpcontent/uploads/2021/02/the_promised_neverland_poster_oficial13426748.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2019[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]2 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Blood+ [COLOR yellow]7.6[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20blood%2B</externallink>
+<thumbnail>https://animesonline.cc/wpcontent/uploads/2019/07/cWxWym1E2CQcRw7fO5BBRSRQU8s.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/VMzcLZQnYT0/WRcLICAAjI/AAAAAAAAxeY/cWIoCsW_sQMrjIm_eb8Z7rXKdJVa6zXTQCLcB/s1600/venha%2Bvoce%2Btambem%2Bcelebrar%2Bo%2Bpoder%2Bdo%2Bamor%2Bem%2BBLOOD%2BPLUS.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2005[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]4 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Akudama Drive [COLOR yellow]7.7[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20akudama%20drive</externallink>
+<thumbnail>https://i0.wp.com/www.otakupt.com/wpcontent/uploads/2020/10/AkudamaDrivevaiter12episodios1.jpg?resize=696%2C980&ssl=1</thumbnail>
+<fanart>https://metagalaxia.com.br/wpcontent/uploads/2020/10/images172.jpeg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2020[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]7 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Horimiya [COLOR yellow]8.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Horimiya</externallink>
+<thumbnail>https://www.myanimesonline.biz/wpcontent/uploads/2020/12/Horimiya.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/e6Gr7gA7aFg/U9l70JnkYAI/AAAAAAAAARI/elKMnlhKHe8/s1600/horimiya4846447.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Portugues/Japones[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Nomad: Megalo Box  [COLOR yellow]8.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Nomad:%20Megalo%20Box</externallink>
+<thumbnail>https://inews.gtimg.com/newsapp_ls/0/13373998673/0</thumbnail>
+<fanart>https://www.toonamisquad.com/wpcontent/uploads/2020/02/MegaloboxEN.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2018[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>SK∞ (SK8 the Infinity [COLOR yellow]7.8[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20SK%E2%88%9E%20(SK8%20the%20Infinity)</externallink>
+<thumbnail>https://www.intoxianime.com/wpcontent/uploads/2021/07/SK8theInfinityvisual.jpg</thumbnail>
+<fanart>https://metagalaxia.com.br/wpcontent/uploads/2021/01/SK8theInfinitypersonagens.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Português ptbr legendado, dublado, dualáudio [/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por Ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Kemono Jihen [COLOR yellow]7.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Kemono%20Jihen</externallink>
+<thumbnail>https://metagalaxia.com.br/wpcontent/uploads/2021/01/kemonojihenprimeirasimpressoes01.jpg</thumbnail>
+<fanart>https://static.anime21.blog.br/2021/01/CAPA18.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]??[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]??[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Sentouin, Hakenshimasu! [COLOR yellow]7.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Sentouin%2C%20Hakenshimasu!</externallink>
+<thumbnail>https://pbs.twimg.com/media/EtGxWP0XYAIYTXV.jpg</thumbnail>
+<fanart>https://www.animeunited.com.br/oomtumtu/2021/03/visual2e1615127616193.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]???[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Dororo [COLOR yellow]8.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Dororo</externallink>
+<thumbnail>https://es.web.img2.acsta.net/pictures/19/06/26/11/13/1639915.jpg</thumbnail>
+<fanart>https://surtido.pe/wpcontent/uploads/2020/09/DORORO21024x640.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2019[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]13 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Kono Subarashii Sekai ni Shukufuku wo! [COLOR yellow]8.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Kono%20Subarashii%20Sekai%20ni%20Shukufuku%20wo!</externallink>
+<thumbnail>https://animesonehd.xyz/wpcontent/uploads/2019/08/konosuba1temporadaonlineemhd.jpg</thumbnail>
+<fanart>https://multiversos.com.br/wpcontent/uploads/2016/05/Imagem01.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2016[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Portugues / Japonês[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]15 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Zatch Bell! (Konjiki no Gash Bell!! [COLOR yellow]7.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Zatch%20Bell!%20(Konjiki%20no%20Gash%20Bell!!)</externallink>
+<thumbnail>https://malkavanimes.fansubs.com.br/wpcontent/uploads/2010/03/ZatchBell.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/imamzWMIv3Q/TXJNSvtsVI/AAAAAAAAAH8/pk6yoFw5Pms/s1600/zatch_bell_.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2003[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]11 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Higurashi no Naku Koro ni Gou [COLOR yellow]7.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Higurashi%20no%20Naku%20Koro%20ni%20Gou</externallink>
+<thumbnail>https://animesonehd.xyz/wpcontent/uploads/2020/09/HigurashinoNakuKoroni2020onlineemHD.jpg</thumbnail>
+<fanart>https://www.otakutale.com/wpcontent/uploads/2020/10/HigurashinoNakuKoroni2020AnimetoRunfor24EpisodesTitleOfficiallyRevealed.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2020[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]10 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Medabots (Medarot [COLOR yellow]7.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Medabots%20(Medarot)</externallink>
+<thumbnail>https://cdn.myanimelist.net/images/anime/8/46699l.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/10/34/f2/1034f2666758b65a88eaf6c6ec45a13e.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]1999[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Dublado[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]6 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Owari no Seraph: Nagoya Kessenhen [COLOR yellow]7.7[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Owari%20no%20Seraph:%20Nagoya%20Kessenhen</externallink>
+<thumbnail>https://animefire.net/img/animes/owarinoseraphnagoyakessenhenlarge.webp?v=1</thumbnail>
+<fanart>https://animezeira.site/wpcontent/uploads/2019/03/Imagejpg13_zps1b9daa4e.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2015[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Steins;Gate [COLOR yellow]9.1[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Steins%3BGate</externallink>
+<thumbnail>https://vortexcultural.com.br/images/2016/04/SteinsGate.jpg</thumbnail>
+<fanart>https://www.animeunited.com.br/oomtumtu/2020/10/1_gnXIaTP_EPXr1EbaMudyQ.jpeg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2011[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones/Portugues[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]40 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Mousou Dairinin [COLOR yellow]7.7[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Mousou%20Dairinin</externallink>
+<thumbnail>https://animefire.net/img/animes/mousoudairininlarge.webp?v=1</thumbnail>
+<fanart>https://i0.wp.com/animorio.com/wpcontent/uploads/2020/12/MousounDairininGrande.png</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2004[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]6 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari [COLOR yellow]7.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Tatoeba%20Last%20Dungeon%20Mae%20no%20Mura%20no%20Shounen%20ga%20Joban%20no%20Machi%20de%20Kurasu%20Youna%20Monogatari</externallink>
+<thumbnail>https://animesonehd.xyz/wpcontent/uploads/2020/12/tatoebaonlineemhd1.jpg</thumbnail>
+<fanart>https://somoskudasai.com/wpcontent/uploads/2019/10/tatoeba.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]6 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Yuukoku no Moriarty [COLOR yellow]8.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Yuukoku%20no%20Moriarty</externallink>
+<thumbnail>https://metagalaxia.com.br/wpcontent/uploads/2020/11/yuukokunomoriartyprimeirasimpressoes01724x1024.jpg</thumbnail>
+<fanart>https://pm1.narvii.com/7809/9c8295b9aa1aa15e4184d13ab4c8624fc9137865r11284711v2_hq.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2020[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones (Legenda Embutida
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Vivy: Fluorite Eye’s Song [COLOR yellow]7.5[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Vivy:%20Fluorite%20Eye%E2%80%99s%20Song</externallink>
+<thumbnail>https://animesonehd.xyz/wpcontent/uploads/2021/03/VivyFluoriteEyesSongonlineemhd.jpg</thumbnail>
+<fanart>https://images5.alphacoders.com/115/thumb19201152871.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]??[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1 GB por ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Wonder Egg Priority [COLOR yellow]8.3[/COLOR]</name>13
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Wonder%20Egg%20Priority</externallink>
+<thumbnail>https://i0.wp.com/i.imgur.com/WS0t01p.jpg?w=678&ssl=1</thumbnail>
+<fanart>https://gaymingmag.com/wpcontent/uploads/2021/04/wondereggpriority.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B][/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]5 gb[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Enen no Shouboutai (Fire Force [COLOR yellow]7.4[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Enen%20no%20Shouboutai</externallink>
+<thumbnail>https://i1.wp.com/www.otakupt.com/wpcontent/uploads/2019/09/Imagempromocionalda2%C2%AApartedeFireForce1.jpg?resize=696%2C984&ssl=1</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/Qa417u_FwAe7z6_nm2F4qkMCutJOSplMli2xteybns5ufFCFjIAglvgb0LXfawCpRFeFb1d30HwlLFFZc2rgqhsFA7xayX3XLopiJwHr9WZ5Ar4EGGjunsh825Xd3ZioWCMR90_g</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2019[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1GB por ep.[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Bishounen Tanteidan [COLOR yellow]7.2[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Bishounen%20Tanteidan</externallink>
+<thumbnail>https://animefire.net/img/animes/bishounentanteidanlarge.webp?v=1</thumbnail>
+<fanart>https://ptanime.com/wpcontent/uploads/2020/11/BishounenTanteidananimevisualposterhorizontaldestaque.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2021[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]1GB Por Ep[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]23 min.[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Vinland Saga [COLOR yellow]8.7[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20Vinland%20Saga</externallink>
+<thumbnail>https://metagalaxia.com.br/wpcontent/uploads/2020/01/vinlandsaga1atemporadaresenhacapa.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/Qw0rxRlsqTA3iY4weiJjd7VB2RUSOLzb14Wu4Ql5ZF2jvVsJhr7y18aJY91ZjfCrty8mmHDg6U=w640h400e365</fanart>
+<info>[COLOR cyan] Info:[/COLOR]
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2019[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]23 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>High School DxD [COLOR yellow]7.4[/COLOR]</name>
+<externallink>https://github.com/888772/Animesone/raw/main/anime%20High%20School%20DxD</externallink>
+<thumbnail>https://kbimages1a.akamaihd.net/395bb40adbb34437945a09074afc6896/1200/1200/False/highschooldxdspecialband2damonenservice.jpg</thumbnail>
+<fanart>https://static.nextepisode.net/tvshowsimages/huge/highschooldxd.jpg</fanart>
+<info>[COLOR cyan] Info:[/COLOR][COLOR darkred]ATENÇÃO[/COLOR]:[B]"Este Título foi classificado como 'Conteúdo Adulto', Portanto, pode conter violência intensa, Sangue, conteúdo sexual ou linguagem forte, não apropriado/permitido para menores de idade."[/B]
+
+
+[COLOR yellow][B]Ano de lançamento[/B][/COLOR]: [B]2012[/B]
+[COLOR yellow][B]Idiomas[/B][/COLOR]: [B]Japones[/B]
+[COLOR yellow][B]Tamanho[/B][/COLOR]: [B]6 GB[/B]
+[COLOR yellow][B]Duração[/B][/COLOR]: [B]24 min. por ep.[/B]</info>
+</channel>
+</channels>
