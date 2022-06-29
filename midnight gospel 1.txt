@@ -1,0 +1,7 @@
+<item>
+	<title>[B]The Midnight Gospel - 1 Temporada[/B]</title>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e19d1a9058ee1c304759cda447b1143dc8640937</link>
+	<thumbnail>https://www.themoviedb.org/t/p/original/me3kxfiFRkdto6SmDQv0nczjfmP.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/mU0O0AyJd41HasGMz5HYaOqNVCh.jpg</fanart>
+	<info>A história foca em Clancy, um “locutor interdimensional com um simulador de multiverso com defeito que decide deixar o conforto de sua casa para entrevistas seres de mundos em extinção”. Os trechos de entrevistas serão inspirados no podcast Duncan Trussell Family Hour, que já acumula mais de 360 edições, com participações do comediante Anthony Jeselnik e Dan Harmon, criador de Rick & Morty e Community.</info>
+</item>
