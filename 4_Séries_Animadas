@@ -242,6 +242,17 @@ Animaniacs, reboot da popular animação dos anos 1990, acompanha os irmãos War
 
 <channels>
 <channel>
+<name>[B]Avatar: A Lenda de Aang[/B] [COLOR yellow]9.2[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/888772/Series-one/main/avatar%20lenda%20de%20aang.xml</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8RFAXPLs3qg5YVYbv5ME46syBKy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cR0xfbIxXTeBCNbju9GzB0363i9.jpg</fanart>
+<genre>Ação, Aventura, Animação, Família, Fantasia, Mistério</genre>
+<info>É uma série de desenho animado estadunidense criada por Michael Dante Dimartino e Bryan Konietzko, produzida e exibida pela Nickelodeon. Passa-se em um mundo fictício influenciado pelas artes marciais asiáticas mescladas a magia elemental. A série conta as aventuras do sucessor de uma longa linhagem de Avatares, Aang e seus amigos em uma busca para salvar o mundo da nação do Fogo. A série é escrita na forma de livros, e cada episódio se torna um capítulo, e cada temporada um livro diferente.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B]Avatar: A Lenda de Korra[/B] [COLOR yellow]8.4[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/888772/Series-one/main/serie%20avatar</externallink>
 <thumbnail>https://jovemnerd.com.br/wp-content/uploads/TLoK1507.jpg</thumbnail>
@@ -250,12 +261,6 @@ Animaniacs, reboot da popular animação dos anos 1990, acompanha os irmãos War
 <info> A lenda de Korra ocorre 70 anos depois de Avatar: A Lenda De Aang. Korra a seguinte, depois do Avatar Aang, uma garota rebelde, explosiva, independente e “pronta para enfrentar o mundo” com cerca de 16/17 anos. Korra, assim como Aang e Appa, tem seu parceiro animal, chamado Naga. Korra vem da tribo da Água do sul e já dominou a Terra, Fogo e Água. E agora o filho mais velho de  Aang e Katara, Tenzin será seu professor da dobra de ar, Tenzin tem três filhos, Jinora (a mais velha), Ikki (a do meio) e Meelo (caçula), todos dominam ar e sua mulher Pemma. Uma das definições da história é Republic city. “habitada por pessoas de todas as nações”. Lá Korra deve lidar com a criminalidade galopante e uma revolta anti dominação.</info>
 </channel>
 </channels>
-
-
-
-
-
-B
 
 
 <channels>
@@ -1131,7 +1136,7 @@ Uma série de animação antológica que é um spin-off de The Boys e será ambi
 <channels>
 <channel>
 <name>[B]The Midnight Gospel[/B] [COLOR yellow]8.3[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/888772/nationplay/main/midnight%20gospel%201.txt</externallink>
+<externallink>https://raw.githubusercontent.com/888772/Series-one/main/serie%20The%20Midnight%20Gospel</externallink>
 <thumbnail>http://cultetc.com/wp-content/uploads/2020/08/series_2208_MV5BNWQ1MzBhMzctYmE3My00NjVmLTkyMTItYzJkOTlkNzQ4MjJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006751000_AL_.jpg</thumbnail>
 <fanart>https://miro.medium.com/max/1400/1*HAtCmY0O683YmL5aFZPphQ.png</fanart>
 <genre>Animação, Aventura, Comédia, Fantasia, Ficção</genre>
