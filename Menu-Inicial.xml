@@ -1,5 +1,17 @@
 <channels>
 <channel>
+<name>[COLOR blue][B]⇒[/B][/COLOR] LivewebTV</name>
+<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/addons/Canais/canaistvaovivo</externallink>
+<fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
+<info>
+[B][/B]
+</info>
+</channel>
+</channels>
+......................................................................................
+<channels>
+<channel>
 <name>[COLOR blue][B]⇒[/B][/COLOR] FILMES</name>
 <thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/888772/nationplay/main/inicio-filmes.xml</externallink>
