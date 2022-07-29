@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1,Band Campinas SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/20.ts
+#EXTINF:-1,Band Nordeste SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/22.ts
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/66371.ts
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/21.ts
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/24.ts
+#EXTINF:-1,Cultura SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/316.ts
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/123.ts
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/122.ts
+#EXTINF:-1,Record SP FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/251.ts
+#EXTINF:-1,Record TV Vitoria SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/245.ts
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/259.ts
+#EXTINF:-1,RedeTV! HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/257.ts
+#EXTINF:-1,RedeTV! SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/256.ts
+#EXTINF:-1,SBT Goias HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/13415.ts
+#EXTINF:-1,SBT Nordeste HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/263.ts
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/66349.ts
+#EXTINF:-1,SBT SP FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/50780.ts
+#EXTINF:-1,SBT SP HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/262.ts
+#EXTINF:-1,SBT SP SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/261.ts
+#EXTINF:-1,SBT TV Aratu Bahia HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1038366.ts
+#EXTINF:-1,SBT TV Cidade Verde Piaui HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/715076.ts
+#EXTINF:-1,SBT TV Jornal Pernambuco SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/715075.ts
+#EXTINF:-1,TV Gazeta SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/321.ts
+#EXTINF:-1,Globo Anhanguera Goiania SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/127.ts
+#EXTINF:-1,Globo TV Caruaru (Asa Branca) HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/147.ts
+#EXTINF:-1,Globo Brasilia SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/129.ts
+#EXTINF:-1,Globo Centro América Cuiaba SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/130.ts
+#EXTINF:-1,Globo EPTV Araraquara SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036446.ts
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/132.ts
+#EXTINF:-1,Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/131.ts
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/134.ts
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/135.ts
+#EXTINF:-1,Globo INTER TV Cabugi RN SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/715073.ts
+#EXTINF:-1,Globo Internacional SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/160.ts
+#EXTINF:-1,Globo InterTV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036430.ts
+#EXTINF:-1,Globo InterTV Serra Mar HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032884.ts
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/137.ts
+#EXTINF:-1,Globo Minas SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/136.ts
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/66360.ts
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/140.ts
+#EXTINF:-1,Globo Nordeste SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/139.ts
+#EXTINF:-1,Globo NSC Blumenau HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032881.ts
+#EXTINF:-1,Globo NSC Florianópolis HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032894.ts
+#EXTINF:-1,Globo NSC Joinville SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1038312.ts
+#EXTINF:-1,Globo RBS Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/146.ts
+#EXTINF:-1,Globo RBS Porto Alegre SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/138.ts
+#EXTINF:-1,Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032888.ts
+#EXTINF:-1,Globo Rede Amazonica SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036445.ts
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/365.ts
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/143.ts
+#EXTINF:-1,Globo RJ SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/142.ts
+#EXTINF:-1,Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/715081.ts
+#EXTINF:-1,Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/715080.ts
+#EXTINF:-1,Globo RPC Maringa SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1038313.ts
+#EXTINF:-1,Globo RPC Paranavaí SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032893.ts
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/714891.ts
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/364.ts
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/149.ts
+#EXTINF:-1,Globo SP SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/148.ts
+#EXTINF:-1,Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036432.ts
+#EXTINF:-1,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036431.ts
+#EXTINF:-1,Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/128.ts
+#EXTINF:-1,Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1066010.ts
+#EXTINF:-1,Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1066009.ts
+#EXTINF:-1,Globo TV Diario HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032895.ts
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1036428.ts
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1038365.ts
+#EXTINF:-1,Globo TV Integração SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1038311.ts
+#EXTINF:-1,Globo TV Itapetininga SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032883.ts
+#EXTINF:-1,Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/151.ts
+#EXTINF:-1,Globo TV Mirante SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032882.ts
+#EXTINF:-1,Globo TV Morena SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/126.ts
+#EXTINF:-1,Globo TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/153.ts
+#EXTINF:-1,Globo TV Tem Rio Preto SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/716149.ts
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/154.ts
+#EXTINF:-1,Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/155.ts
+#EXTINF:-1,Globo TV Vanguarda Sâo José Dos Campos SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/156.ts
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/157.ts
+#EXTINF:-1,Mais Globosat FHD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1032885.ts
+#EXTINF:-1,Rede Vida SD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/258.ts
+#EXTINF:-1,Globo TV Nacional HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1067627.ts
+#EXTINF:-1,Globo Petrolina HD
+plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/live/andre123/andre123/1067626.ts
